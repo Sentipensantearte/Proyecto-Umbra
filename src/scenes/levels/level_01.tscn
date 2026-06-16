@@ -54877,7 +54877,7 @@ motion_mirroring = Vector2(1920, 0)
 [node name="Sprite2D" type="Sprite2D" parent="TileMapsLayers/ParallaxBackground/ParallaxLayer3"]
 texture_repeat = 3
 position = Vector2(0, -355)
-scale = Vector2(1, 0.996)
+scale = Vector2(1.003, 0.999)
 texture = ExtResource("4_bwhkn")
 centered = false
 
@@ -54886,7 +54886,7 @@ position = Vector2(-18, 0)
 motion_mirroring = Vector2(1920, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="TileMapsLayers/ParallaxBackground/ParallaxLayer4"]
-position = Vector2(0, -57)
+position = Vector2(18, -57)
 scale = Vector2(1, 0.999)
 texture = ExtResource("5_lmkc6")
 centered = false
